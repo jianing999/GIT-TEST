@@ -9,5 +9,6 @@ public class TEST {
         System.out.println("third version");
         System.out.println("forth version");
         System.out.println("master version");
+        System.out.println("hot-fix test");
     }
 }
