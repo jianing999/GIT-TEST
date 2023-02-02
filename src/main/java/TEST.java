@@ -7,5 +7,6 @@ public class TEST {
         System.out.println("first version");
         System.out.println("second version");
         System.out.println("third version");
+        System.out.println("forth version");
     }
 }
