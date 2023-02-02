@@ -8,5 +8,6 @@ public class TEST {
         System.out.println("second version");
         System.out.println("third version");
         System.out.println("forth version");
+        System.out.println("master version");
     }
 }
